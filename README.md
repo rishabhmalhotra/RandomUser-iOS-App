@@ -2,7 +2,7 @@
 Ever wanted to fill those useless info forms on malicious websites? This is for you!!
 Generates random user details(name/phone/ address/email/username/password,etc) for iOS 9.x <P>Developed By: Rishabh Malhotra</P>
 
-![screen shot 2016-05-19 at 6 34 25 pm](https://cloud.githubusercontent.com/assets/15898956/15411817/a447b3c4-1df0-11e6-9a14-0b3c5e2b6491.png)
+![screen shot 2016-05-19 at 6 41 10 pm](https://cloud.githubusercontent.com/assets/15898956/15411893/59eea02a-1df1-11e6-91ad-0e7fe3d39955.png)
 
 
 ## Synopsis
